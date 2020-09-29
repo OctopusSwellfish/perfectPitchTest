@@ -61,5 +61,7 @@
 * 실패 영상
 [실패 영상-YouTube](https://youtu.be/h-gax7JYiXc)
 
-  
+### 성과
+
+* 임베디드시스템 팀 프로젝트 1등
 
