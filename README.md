@@ -56,12 +56,10 @@
 ### 데모 영상
 
 * 성공 영상
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/fl-sXy8q4RM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[성공 영상-YouTube](https://youtu.be/fl-sXy8q4RM)
 
 * 실패 영상
-
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/h-gax7JYiXc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[실패 영상-YouTube](https://youtu.be/h-gax7JYiXc)
 
   
 
